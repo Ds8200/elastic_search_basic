@@ -1,0 +1,62 @@
+[
+    {
+        "name": "Samsung Galaxy S25",
+        "description": "טלפון חכם עם מצלמה מתקדמת",
+        "price": 3200,
+        "category": "phones"
+    },
+    {
+        "name": "iPhone 14 Pro Max",
+        "description": "טלפון חכם עם עיצוב יוקרתי ומצלמה משופרת",
+        "price": 4500,
+        "category": "phones"
+    },
+    {
+        "name": "Google Pixel 7",
+        "description": "טלפון חכם עם מערכת הפעלה נקייה ומצלמה איכותית",
+        "price": 2800,
+        "category": "phones"
+    },
+    {
+        "name": "OnePlus 11",
+        "description": "טלפון חכם עם ביצועים גבוהים ומסך איכותי",
+        "price": 3000,
+        "category": "phones"
+    },
+    {
+        "name": "Sony Xperia 1 IV",
+        "description": "טלפון חכם עם מסך 4K ומצלמה מקצועית",
+        "price": 4000,
+        "category": "phones"
+    },
+    {
+        "name": "Samsung Galaxy Buds",
+        "description": "אוזניות אלחוטיות עם ביטול רעשים",
+        "price": 650,
+        "category": "audio"
+    },
+    {
+        "name": "Apple AirPods Pro",
+        "description": "אוזניות אלחוטיות עם ביטול רעשים אקטיבי",
+        "price": 1200,
+        "category": "audio"
+    },
+    {
+        "name": "Sony WH-1000XM4",
+        "description": "אוזניות אלחוטיות עם ביטול רעשים אקטיבי ואיכות סאונד מעולה",
+        "price": 1500,
+        "category": "audio"
+    },
+    {
+        "name": "Bose QuietComfort Earbuds",
+        "description": "אוזניות אלחוטיות עם ביטול רעשים אקטיבי ונוחות גבוהה",
+        "price": 1300,
+        "category": "audio"
+    },
+    {
+        "name": "Jabra Elite 85t",
+        "description": "אוזניות אלחוטיות עם ביטול רעשים אקטיבי ואיכות סאונד טובה",
+        "price": 900,
+        "category": "audio"
+    }
+]
